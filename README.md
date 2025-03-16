@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hioul Moamed Walid and I'm a cs student at USTHB</p>
+<p align="left">My name is Hioul Moamed Walid and I'm a CS student at USTHB</p>
 
 ###
 
